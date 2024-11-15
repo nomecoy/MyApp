@@ -4,4 +4,9 @@
    "devices": ["REDMINOTE9PROEB0EDCED53459C98"],
    "expiry": "16-11-2024 12:00 PM"
 },
+   "TEST23456": {
+   "password": "$2y$12$fY7cwB5gdSFDljk71ZNHaOTBZfT8L30wA1vRba./JsTmgdgsupNCa",
+   "devices": ["REDMINOTE9PROEB0EDCED19459C98","REDMINOTE9PROEB0EDCED53459C98"],
+   "expiry": "16-11-2024 12:00 PM"
+},
 }
