@@ -1,7 +1,7 @@
 {
-  "user_one": {
-   "password": "$2y$12$bXTM8xJOPQB5P0znQ.PlMORCopCanBZlrNRK42JGotP/Enc1MCbaS",
-   "devices": [""],
-   "expiry": "31-01-2024 12:00 PM"
-  },
+"TEST2345": {
+   "password": "$2y$12$0rDCQLDD3uxKywXH/o.rKeLRGCzZ6qeIJgzeADzypfU3zN3ycTvsm",
+   "devices": ["REDMINOTE9PROEB0EDCED53459C98"],
+   "expiry": "16-11-2024 12:00 PM"
+},
 }
